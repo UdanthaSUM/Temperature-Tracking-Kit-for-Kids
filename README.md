@@ -35,8 +35,6 @@ Low power consumption
 Temperature Sensor: Adafruit TMP117
 Features:
 
-±0.01°C accuracy
-
 I2C interface
 
 Compact and power-efficient
